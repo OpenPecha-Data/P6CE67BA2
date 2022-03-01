@@ -1,0 +1,81 @@
+id: P6CE67BA2
+initial_creation_type: input
+source_metadata:
+  title: 'Aśvaghoṣa: Saundarananda'
+  language: en
+  volumes:
+    d8eb0bd43ee34a0c8fa7a846394393cf:
+      title: 'CANTO I: Kapilavāstuvarṇana'
+      base_file: 'CANTO I: Kapilavāstuvarṇana.txt'
+      work_id: W998EC727
+    e553fe13c7da4d839dafcb5bb766a0cb:
+      title: 'CANTO II: Rājavarṇana'
+      base_file: 'CANTO II: Rājavarṇana.txt'
+      work_id: WF0542F00
+    5e8f657005eb4993a4240383c8890d1b:
+      title: 'CANTO III: Tathāgatavarṇana'
+      base_file: 'CANTO III: Tathāgatavarṇana.txt'
+      work_id: W300B8F8F
+    29a930ff69234f789eda92029e26f76e:
+      title: 'CANTO IV: Bhāryāyācitaka'
+      base_file: 'CANTO IV: Bhāryāyācitaka.txt'
+      work_id: W0FB2116D
+    2ba19872694a4541a6d24c1b341bfda1:
+      title: 'CANTO IX: Madāpavāda'
+      base_file: 'CANTO IX: Madāpavāda.txt'
+      work_id: W83DA6B4E
+    5fdde6c2240446bd950b756c1e532a2c:
+      title: 'CANTO V: Nandapravrājana'
+      base_file: 'CANTO V: Nandapravrājana.txt'
+      work_id: W556F3B9E
+    5f7b618b3c4f4dcdaedee4e1d3ff411b:
+      title: 'CANTO VI: Bhāryāvilāpa'
+      base_file: 'CANTO VI: Bhāryāvilāpa.txt'
+      work_id: W1EC393C8
+    556accc7b26748d4af74ca005b6181ed:
+      title: 'CANTO VII: Nandivilāpa'
+      base_file: 'CANTO VII: Nandivilāpa.txt'
+      work_id: WCFC56E7C
+    3fcc26e1df6842feb7c4876e5639107b:
+      title: 'CANTO VIII: Strīvighāta'
+      base_file: 'CANTO VIII: Strīvighāta.txt'
+      work_id: WC7964FF4
+    b1d0c5acf0ae438f9b8fa3c0210b8087:
+      title: 'CANTO X: Svarganidarśana'
+      base_file: 'CANTO X: Svarganidarśana.txt'
+      work_id: W185AE2AE
+    dd1e57e2eac94ee3ab0ef0ea17787c57:
+      title: 'CANTO XI: Svargāpavāda'
+      base_file: 'CANTO XI: Svargāpavāda.txt'
+      work_id: W3E9830E3
+    5739507fc4c140acb60e481595940afa:
+      title: 'CANTO XII: Paryavamarśa'
+      base_file: 'CANTO XII: Paryavamarśa.txt'
+      work_id: W21BC6740
+    dc658058427147e38b52d6e35cba2f32:
+      title: 'CANTO XIII: Śīlendriyajaya'
+      base_file: 'CANTO XIII: Śīlendriyajaya.txt'
+      work_id: W44FEBB34
+    72867df068ce4a158da0f6f44f2787e8:
+      title: 'CANTO XIV: Ādiprasthāno'
+      base_file: 'CANTO XIV: Ādiprasthāno.txt'
+      work_id: W776964C1
+    8272c7ce213b4321a631375ee76e0b7a:
+      title: 'CANTO XV: Vitarkaprahāṇa'
+      base_file: 'CANTO XV: Vitarkaprahāṇa.txt'
+      work_id: W3CF23D5D
+    dd754184a752427b8aa7984a7e0b285e:
+      title: 'CANTO XVI: Āryasatyavyākhyāna'
+      base_file: 'CANTO XVI: Āryasatyavyākhyāna.txt'
+      work_id: WFF139E43
+    272d84a5f1b74b42a00c6cf1d6c24363:
+      title: 'CANTO XVII: Amṛtādhigama'
+      base_file: 'CANTO XVII: Amṛtādhigama.txt'
+      work_id: W6108CDD8
+    a8df49aa335f4feaba40d5d1e3b94fac:
+      title: 'CANTO XVIII: Ājñāvyākaraṇa'
+      base_file: 'CANTO XVIII: Ājñāvyākaraṇa.txt'
+      work_id: W12442D98
+  chapter_to_tile: {}
+created_at: '2022-03-01T23:46:55.984947'
+last_modified_at: '2022-03-01T23:46:55.984954'

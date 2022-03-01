@@ -1,0 +1,112 @@
+id: 1dfc61600d184b19bbe890f2d3c8956d
+annotation_type: index
+revision: '00001'
+annotations:
+  c977847b5866444f9f72f35b747b7c3a:
+    work_id: W998EC727
+    span:
+      vol: 'CANTO I: Kapilavāstuvarṇana'
+      start: 0
+      end: 9965
+  91cb9309eb2d4d62b2345796c22c7a3a:
+    work_id: WF0542F00
+    span:
+      vol: 'CANTO II: Rājavarṇana'
+      start: 0
+      end: 11247
+  6da0bd5052cd40dfba3217faa1eec58b:
+    work_id: W300B8F8F
+    span:
+      vol: 'CANTO III: Tathāgatavarṇana'
+      start: 0
+      end: 8411
+  16651984d2bf48e18dc793524076146b:
+    work_id: W0FB2116D
+    span:
+      vol: 'CANTO IV: Bhāryāyācitaka'
+      start: 0
+      end: 9086
+  492ad42728a449a4a3ede0d897a9d194:
+    work_id: W83DA6B4E
+    span:
+      vol: 'CANTO IX: Madāpavāda'
+      start: 0
+      end: 10666
+  dc00954682fe4eb3a42fd1176e9d66ea:
+    work_id: W556F3B9E
+    span:
+      vol: 'CANTO V: Nandapravrājana'
+      start: 0
+      end: 10991
+  641304b42dbe4e8792c5bf23898a204d:
+    work_id: W1EC393C8
+    span:
+      vol: 'CANTO VI: Bhāryāvilāpa'
+      start: 0
+      end: 10126
+  0cc79538a9884278ba297d69510cef5b:
+    work_id: WCFC56E7C
+    span:
+      vol: 'CANTO VII: Nandivilāpa'
+      start: 0
+      end: 11873
+  f0ef257ce37a4d54b3f8b40a3b49e3c7:
+    work_id: WC7964FF4
+    span:
+      vol: 'CANTO VIII: Strīvighāta'
+      start: 0
+      end: 12491
+  3d991c29753c437182402e16a865d4c8:
+    work_id: W185AE2AE
+    span:
+      vol: 'CANTO X: Svarganidarśana'
+      start: 0
+      end: 13173
+  d25bb603c77040cabe7d9eaab487ca8c:
+    work_id: W3E9830E3
+    span:
+      vol: 'CANTO XI: Svargāpavāda'
+      start: 0
+      end: 10453
+  2fbeb71cdd2f4518a0fd955a821cb80a:
+    work_id: W21BC6740
+    span:
+      vol: 'CANTO XII: Paryavamarśa'
+      start: 0
+      end: 7150
+  19c60e4b2b034b109993362f5f756105:
+    work_id: W44FEBB34
+    span:
+      vol: 'CANTO XIII: Śīlendriyajaya'
+      start: 0
+      end: 9527
+  51c697fa88224b1ba61729a32f631009:
+    work_id: W776964C1
+    span:
+      vol: 'CANTO XIV: Ādiprasthāno'
+      start: 0
+      end: 8373
+  3b8a4251ce0e4c3281d4bbf47d4fafa1:
+    work_id: W3CF23D5D
+    span:
+      vol: 'CANTO XV: Vitarkaprahāṇa'
+      start: 0
+      end: 10750
+  1dcff5042f3549b79b084ebd23b9b1ec:
+    work_id: WFF139E43
+    span:
+      vol: 'CANTO XVI: Āryasatyavyākhyāna'
+      start: 0
+      end: 20612
+  0067a8cea2784c30aeb9bac8b70327e1:
+    work_id: W6108CDD8
+    span:
+      vol: 'CANTO XVII: Amṛtādhigama'
+      start: 0
+      end: 15704
+  4710b0f0fa324cddb09d48e12cd08c37:
+    work_id: W12442D98
+    span:
+      vol: 'CANTO XVIII: Ājñāvyākaraṇa'
+      start: 0
+      end: 15586
